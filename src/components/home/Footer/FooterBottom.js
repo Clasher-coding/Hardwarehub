@@ -12,7 +12,7 @@ const FooterBottom = () => {
           Copyright 2022 | HardWareHub | All Rights Reserved |
           <a href="https://reactbd.com/" target="_blank" rel="noreferrer">
             <span className="ml-1 font-medium group-hover:text-primeColor">
-              Powered by Developer.com
+              Powered by Parth.com
             </span>
           </a>
         </p>
